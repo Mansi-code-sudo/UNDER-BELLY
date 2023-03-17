@@ -1,0 +1,57 @@
+th,td{
+  padding:45px;
+}
+
+.foot {
+  border-spacing: 30px;
+}
+h1,h3,h2{
+  font-family: 'Play', sans-serif;
+}
+p{
+  font-family: 'Yantramanav', sans-serif;
+  padding: 8px;
+  border: 1px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.home{
+  text-align: center;
+  padding-top: 15%;
+  color:	#FEFEFE;
+  background-image: url("zomato-1.jpg");
+   filter: brightness(50%);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+nav{
+  text-align: right;
+}
+.main{
+  text-align: center;
+}
+a:link{
+  color: black;
+  text-decoration: none;
+}
+a:hover{
+  color:blue;
+  text-decoration: underline;
+  cursor: pointer ;
+}
+.footer{
+  background-color:#E5E4E2;
+}
+.food{
+  text-align:center;
+  background-image: url("food_back.jpeg");
+  background-repeat: no-repeat;
+  background-size:100% auto;
+}
+.find{
+  background-image: url("find.jpeg");
+}
+.FAQ{
+  text-align: center;
+}
